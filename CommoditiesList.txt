@@ -1,0 +1,5 @@
+ID    NEME     PRICE(RMB)
+ 1    phone    2000
+ 2    apple    5
+ 3    bike     1000
+ 4    sugger   3
